@@ -1,0 +1,28 @@
+Package: command-not-found
+Version: 3.1-8
+Architecture: x86_64
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 88
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-8_x86_64.deb
+Size: 17332
+MD5sum: 0d324a94dfd5762871ae253c05cc7d2b
+SHA1: 5fca57d78292d25a26fd1d7f46aa6fedaabf704c
+SHA256: 817e2c6d9a331e3145fc3611ff45d4a9bba43c6bd427d6463f9ffba8ead9be08
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: libc++
+Version: 28c
+Architecture: x86_64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 1244
+Filename: pool/main/libc++_28c_x86_64.deb
+Size: 317752
+MD5sum: c56fb5dd1f8caef40ebce7afc3400ef0
+SHA1: 9f6a80b88ad6a458f67e401bb2329cc0d65f9f9a
+SHA256: a5363a2144d845719b12133dee63eff2ec71166b93c4dac57cae768734d07016
+Homepage: https://libcxx.llvm.org/
+Description: C++ Standard Library
+

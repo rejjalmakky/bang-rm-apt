@@ -1,0 +1,4 @@
+data/data/com.bangrm.termux/files/usr/lib/libc++_shared.so  libc++
+data/data/com.bangrm.termux/files/usr/libexec/termux/command-not-found command-not-found
+data/data/com.bangrm.termux/files/usr/share/doc/command-not-found/copyright command-not-found
+data/data/com.bangrm.termux/files/usr/share/doc/libc++/copyright libc++

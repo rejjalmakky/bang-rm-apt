@@ -1,0 +1,28 @@
+Package: command-not-found
+Version: 3.1-8
+Architecture: aarch64
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 88
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-8_aarch64.deb
+Size: 16736
+MD5sum: 2b23961d18fc5e0be35382a3569e78d1
+SHA1: 8b743ecb450c624e973c93a70d38424a1f6bf38e
+SHA256: c15e4576e0e3d53e1c9174bf67fa09c9fa7da36316a009de87e3177d99149513
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: libc++
+Version: 28c
+Architecture: aarch64
+Essential: yes
+Maintainer: @termux
+Installed-Size: 1268
+Filename: pool/main/libc++_28c_aarch64.deb
+Size: 290852
+MD5sum: be2a3c759f5939520f649fc1f2b8d273
+SHA1: 8403d93335e8f6eccbe36fc2b60fe0324af622fa
+SHA256: 18236178353d0a8aac1a4ca28c6c0d1c3827fcc623e72967446712571a4d2b11
+Homepage: https://libcxx.llvm.org/
+Description: C++ Standard Library
+
