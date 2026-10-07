@@ -1,6 +1,6 @@
 Package: command-not-found
-Architecture: x86_64
 Version: 3.1-8
+Architecture: x86_64
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 88
 Depends: libc++
@@ -9,13 +9,12 @@ Size: 17316
 MD5sum: 17fd9d8a0edea46d4ed87b4dd2d8112b
 SHA1: 62673f7553ee2026c8dc281d2164b4c33e22b6a7
 SHA256: f741c9b00839089e1fd66220634e3a4c4663a2035d56bbca6cac878b3d0e3abd
-SHA512: fa8c48e42d94bac23b536513122eb58c4742e4048250650163b145f0a7ef7907e1aeeab0c14d62a6cdaabeb3b7c06549809ebd9d0a4dc903505fa760ae8e991e
 Homepage: https://github.com/termux/command-not-found
 Description: Suggest installation of packages in interactive shell sessions
 
 Package: libc++
-Architecture: x86_64
 Version: 28c
+Architecture: x86_64
 Essential: yes
 Maintainer: @termux
 Installed-Size: 1244
@@ -24,13 +23,12 @@ Size: 317740
 MD5sum: 88dd1c9738b9244a6b04334528868e02
 SHA1: a2ac4ec770d990f2b3d5b54ac623c63fc1ce58a1
 SHA256: a91a6b112b2b1127edef48a240deb3475ee73607be159bd1dbb4bf5bd97fbbb0
-SHA512: 8f53554d0ea76f68b99ebd65ec84a44739c101733d5321ed1173e76fd5cb2ed8af702550a0d9391085020a65967ea607f32cb122baf6ded6d9a89197fa090d55
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
 Package: termux-keyring
-Architecture: all
 Version: 3.13
+Architecture: all
 Essential: yes
 Maintainer: @termux
 Installed-Size: 192
@@ -39,7 +37,20 @@ Size: 39800
 MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
 SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
 SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
-SHA512: d26437108137fe942bcaf2182ef50a8a4af29b55d45643b0a0094b5956417d9a577db16b8ddcebc801ca3c81430b4c2a854a10f83f6aa92de4b03d9b5c80fa69
+Homepage: https://github.com/termux
+Description: GPG public keys for the official Termux repositories
+
+Package: termux-keyring
+Version: 3.13
+Architecture: all
+Essential: yes
+Maintainer: @termux
+Installed-Size: 192
+Filename: pool/main/termux-keyring_3.13_all.deb
+Size: 39800
+MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
+SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
+SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
 Homepage: https://github.com/termux
 Description: GPG public keys for the official Termux repositories
 

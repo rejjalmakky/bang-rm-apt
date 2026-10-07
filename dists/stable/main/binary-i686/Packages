@@ -1,6 +1,6 @@
 Package: command-not-found
-Architecture: i686
 Version: 3.1-8
+Architecture: i686
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 84
 Depends: libc++
@@ -9,13 +9,12 @@ Size: 16716
 MD5sum: 484c6f21cee98549aef29100e6a7aa77
 SHA1: 76b4db47a1a38fba545d1f5937cdf924515fa8c5
 SHA256: 2ca1fda1c2dafa11345efcc1959f7e9d9f1f9eeebbaf08d24ab566b1f3c68310
-SHA512: d9548348b20cfec60e678156e4c03f85238eb11a00e9ac7ce2633b74fcfb8aa983bebcf73b8dccb5b9247a826c235dd266c1148490c6117d48064176824e899e
 Homepage: https://github.com/termux/command-not-found
 Description: Suggest installation of packages in interactive shell sessions
 
 Package: libc++
-Architecture: i686
 Version: 28c
+Architecture: i686
 Essential: yes
 Maintainer: @termux
 Installed-Size: 1160
@@ -24,13 +23,12 @@ Size: 325256
 MD5sum: d1be224b30087524dcfd29c22890753b
 SHA1: d93ac5031a5fab8a78292221add0f0a31949adc8
 SHA256: bb02e4f3b81a4efe7f500c436135b624eb1cc0691a554c0929f5f01cee10087e
-SHA512: ca9c0eb9e3dde387983a2bdf0130b838cd93e5e62b82c20c04cce63cd3fbe02c19115e371a0a5018d76d021431613219078cf3ab4355080a3be808e23763886f
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
 Package: termux-keyring
-Architecture: all
 Version: 3.13
+Architecture: all
 Essential: yes
 Maintainer: @termux
 Installed-Size: 192
@@ -39,7 +37,20 @@ Size: 39800
 MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
 SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
 SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
-SHA512: d26437108137fe942bcaf2182ef50a8a4af29b55d45643b0a0094b5956417d9a577db16b8ddcebc801ca3c81430b4c2a854a10f83f6aa92de4b03d9b5c80fa69
+Homepage: https://github.com/termux
+Description: GPG public keys for the official Termux repositories
+
+Package: termux-keyring
+Version: 3.13
+Architecture: all
+Essential: yes
+Maintainer: @termux
+Installed-Size: 192
+Filename: pool/main/termux-keyring_3.13_all.deb
+Size: 39800
+MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
+SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
+SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
 Homepage: https://github.com/termux
 Description: GPG public keys for the official Termux repositories
 
