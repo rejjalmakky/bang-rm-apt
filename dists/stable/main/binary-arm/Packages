@@ -26,3 +26,31 @@ SHA256: 6c405e06ee0548ca7010351517318bbe404560b907905fa7d439cffa9e3a1099
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
+Package: termux-keyring
+Version: 3.13
+Architecture: all
+Essential: yes
+Maintainer: @termux
+Installed-Size: 192
+Filename: pool/main/termux-keyring_3.13_all.deb
+Size: 39800
+MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
+SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
+SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
+Homepage: https://github.com/termux
+Description: GPG public keys for the official Termux repositories
+
+Package: termux-keyring
+Version: 3.13
+Architecture: all
+Essential: yes
+Maintainer: @termux
+Installed-Size: 192
+Filename: pool/main/termux-keyring_3.13_all.deb
+Size: 39800
+MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
+SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
+SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
+Homepage: https://github.com/termux
+Description: GPG public keys for the official Termux repositories
+
