@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Architectures: aarch64 arm i686 x86_64
 Codename: stable
 Components: main
@@ -45,3 +48,19 @@ SHA512:
  8edc873e041fc19794f5e1c1686caa886ddeb247d868003df702a1ef3eb4553db2dd7086225a0552865365d6b1346f021fcbdb26cd262eef13407fb93fac268d             1150 main/binary-i686/Packages.gz
  3cdb2626f16be3abe8fc58a42dfee8570d4f7c3a1a70b278c1c8334ba09293a3f9cf83630829bc1df85999afb618ce22ff9a9c70522075dbbc4d9d1fbb7dabf0             2397 main/binary-x86_64/Packages
  5b07137315d63dacf0985bc2970c2005c457209b3a56f781b685afa78503b911bab7431eb96f49be47ddb703cdbc4aae3f752322acceaa7adb6933e93eee493a             1153 main/binary-x86_64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkgAhybmflCB7j/8DCFavMytHe1YFAmrG0g8ACgkQCFavMytH
+e1asfg//XnWxHqdN5LnI6IysAdG0hBsHeo9N1am3n+znv0c7c+66tTEutYHoeEYA
+y1hUwPZx1ecFJ5UyogiOHvuNY4tZr913wTz9kA8qUsJmNN14DCHc/SLateCmuMY8
+vWpuWbiThqGwtjjNwuheq6R0NR9OxOKCbiUUVNcA6rEqyh6lHOuQk2fTYHqdhShF
+/Mb8LVVcNx/uNxUKXnn48HHYiNMV2lf1BjnxC3ZMxWYRD28l/fuMld6BawnghWVX
+P4d4mRnWTNcidWf/+wwdz8sPRjoeykQ5/JLwFhR+NkvffFr1YkJzpOQnGaVTgkFl
+rsTo3eMvROppaXg9T/jJV95sxMKmrw/GOAp+e036qafgFSs8LKKwir7L4FxJEX/E
+kqXa/Jvc7t3bnf8PBq0OkdmafRjD/bdXw1BEztO8HjGwcA6LdO335RBYkI0MKXZt
+2/U3SHCTrUJQokzbJdNiQAQk7X1EwxOjNPty1wWcqghuYb1+DuRmDh9dYWYrkty1
+WARyzyvRq3NLuD84mtOQnl0UbdpUzHkThSTwIavkHlVC6w1nfQGtwJx6i15ojwPr
+vQoF9QFXAnvtDz+P7kZL4CwG3hOzoicIXp/Z4WWx1r2mLzshW4r/BgsCI0AciqiQ
+X4IDJcmfwiNtJqNbGtNVdlJaeHc5f2cx1fAUCUe5zxHqY7u8q0g=
+=OLyW
+-----END PGP SIGNATURE-----

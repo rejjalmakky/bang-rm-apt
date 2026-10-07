@@ -1,6 +1,21 @@
 Package: command-not-found
-Version: 3.1-8
 Architecture: i686
+Version: 3.1-10
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 84
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-10_i686.deb
+Size: 16692
+MD5sum: f9bc4619c0993a2fc1cfea517bb9b05e
+SHA1: 72933ca026bd8314a5571a654bcbf34decbe8de7
+SHA256: 4ee4dea8f9d5b55ba6890d43ff01fd741e9cbc0f4442ed7328f2a25617719191
+SHA512: 7ceec161ff38a082dde74d903abce6d2d3c4a3b2aea37aed0f26ec0cecc579936f71f33a9a7b6b3bc5cad0d4a8f05e8fa1b9aeaec39dbdb0682c61f8f3608639
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: command-not-found
+Architecture: i686
+Version: 3.1-8
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 84
 Depends: libc++
@@ -9,26 +24,28 @@ Size: 16712
 MD5sum: 76187c59d43e07df7a639ce0ce3b083c
 SHA1: f312426c25a76cdc24fc0828f46e6806c049c051
 SHA256: 76fed72dc5e231c30d685f03ed27c817a34d30f8e7a04aa7803462eca6719c8c
+SHA512: e0be2a975843a21c652f426442ff97be712f69d787778f768f4702291a08433c877b643889bbb98a9b110a50f13298c3e063887ce4ba896ebe89f422bc96d408
 Homepage: https://github.com/termux/command-not-found
 Description: Suggest installation of packages in interactive shell sessions
 
 Package: libc++
-Version: 28c
 Architecture: i686
+Version: 28c
 Essential: yes
 Maintainer: @termux
 Installed-Size: 1160
 Filename: pool/main/libc++_28c_i686.deb
-Size: 325168
-MD5sum: f415d3abe940ce2f3c01e179ceeb1340
-SHA1: a26b6b817978a67ebe46c5e9f2619d5c89a2a6ae
-SHA256: c643716ed7594e987125fcca558accd0b55f577dd9fa6db54a9db7a319c27664
+Size: 325340
+MD5sum: 596642bb5e52d72ea87bb67c30a4b8ee
+SHA1: fc5a7c361d94fa25f81804a92726844c355e3446
+SHA256: 0f958bb9029caf6bb75b1e0f162c0ecdbc8bf12379ae1b83edce4919c9622788
+SHA512: 6c22abfc73cdbd0e0d4079342b5af2ea0441cecc585488f16c36034f09663ef942025bd46c52d6efe9172d4ae4c0e7fd1a764d90052e21d47318e2cb71751358
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
 Package: termux-keyring
-Version: 3.13
 Architecture: all
+Version: 3.13
 Essential: yes
 Maintainer: @termux
 Installed-Size: 192
@@ -37,20 +54,7 @@ Size: 39800
 MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
 SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
 SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
-Homepage: https://github.com/termux
-Description: GPG public keys for the official Termux repositories
-
-Package: termux-keyring
-Version: 3.13
-Architecture: all
-Essential: yes
-Maintainer: @termux
-Installed-Size: 192
-Filename: pool/main/termux-keyring_3.13_all.deb
-Size: 39800
-MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
-SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
-SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
+SHA512: d26437108137fe942bcaf2182ef50a8a4af29b55d45643b0a0094b5956417d9a577db16b8ddcebc801ca3c81430b4c2a854a10f83f6aa92de4b03d9b5c80fa69
 Homepage: https://github.com/termux
 Description: GPG public keys for the official Termux repositories
 
