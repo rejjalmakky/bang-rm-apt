@@ -15,6 +15,21 @@ Description: Suggest installation of packages in interactive shell sessions
 
 Package: command-not-found
 Architecture: aarch64
+Version: 3.1-11
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 236
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-11_aarch64.deb
+Size: 42768
+MD5sum: 806edd0d869275388f90abf940028247
+SHA1: 937e22847656de0603a94eef2e6767172a34927e
+SHA256: a048a2c5d25b76210626726f68f61ae56e6dd49d1e7d0ad22c552cc682c3e2c3
+SHA512: a20bc4ac37246114644259871d4baeb6c256879ecd2859474f1a6e8f8564223f6e9c4db2a727bfaed5ae19b6272f5d8590fcbfdfe2eec20b6699b75c2f5d1d3e
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: command-not-found
+Architecture: aarch64
 Version: 3.1-8
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 88
@@ -35,11 +50,11 @@ Essential: yes
 Maintainer: @termux
 Installed-Size: 1268
 Filename: pool/main/libc++_28c_aarch64.deb
-Size: 291180
-MD5sum: 06652195286bad5db8e4dc54f3d6a84c
-SHA1: b1dfc15fa620f6951526601c4b5ace177690b764
-SHA256: 49e7094ad6e8edfb190c810f2b3206abb58d35a05f72ed58dce7cce537aae194
-SHA512: ced4735b23a8b401aaaa5d2b665d5cb084c16605cabe534843a4561bfdce2e9084754d5e467f31c28e2d8a8117e3910d75b4215e69aaedd846876c5c638fe3a2
+Size: 291176
+MD5sum: 87890092a9404380788337bab23e48a8
+SHA1: c86d7806a53d2b364999527f2245cc7a471b12eb
+SHA256: e8d5c98b27dd385d1f9529f9dd5da97b17a7b9479c3485eef644138960be0cf9
+SHA512: 97d7a4b9e1ed709d9e700748c9967134f5db54150f1c80fc8299a43aacc6657de12a095353e8bc4266de9bd392a0b71d4d9f69ecf4e4032f03ba85dc3f693882
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 

@@ -15,6 +15,21 @@ Description: Suggest installation of packages in interactive shell sessions
 
 Package: command-not-found
 Architecture: x86_64
+Version: 3.1-11
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 236
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-11_x86_64.deb
+Size: 43276
+MD5sum: f45ab9d4f0c0ae9c1def29cbf919a1e5
+SHA1: e195ac2dde2d21bc60b87f9631020333323365df
+SHA256: f477c00b0b9ec54023c7b1d1f34ecad8e68801b5e7422724d6d9f25dcd2c4710
+SHA512: 8e56b8c6c49233f6a4caf5431ae9e8cb8d3b9a2955f7dbdba3c063830c573ae46c82fa0e6c33b0b51debe42ff09caafd04928d979fcc881de14674533e2e671f
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: command-not-found
+Architecture: x86_64
 Version: 3.1-8
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 88
@@ -35,11 +50,11 @@ Essential: yes
 Maintainer: @termux
 Installed-Size: 1244
 Filename: pool/main/libc++_28c_x86_64.deb
-Size: 317592
-MD5sum: 7316d226dcd34b77cf35b553241f381a
-SHA1: 65b0a65650aae3e520af1cbbbf7f12b4ad97ffd8
-SHA256: d496088bfd92fc7927b50443dce192875000efcdb8a39eea97bb880662adcf6b
-SHA512: 095d0e81d1582cc97ef245274c586890a94faa1bb17d33618713a5600b4a5a053cd3717ec2d38e67367dd0ca451bc76d76cd57420098fdd88de4817221320183
+Size: 317640
+MD5sum: 9ef3a8495a43bdc9827bb075069a8eec
+SHA1: 2bd18523a526b3ef946577082684d7ec8456787b
+SHA256: 6fbc9f9cdc2680ec50f289d468ca2b5decded688ba184ad776e33f98ea85648e
+SHA512: 70987dc0a77991f854accaa2c8e1c91d05bab23092c2b9e79611c98a2443afa3af11e026ed779ce5acb1747ca0ccf186bf6162ea687553404fd74c8684c4d82b
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
