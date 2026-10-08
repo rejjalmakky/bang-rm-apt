@@ -1,6 +1,35 @@
+Package: bang-rm-agent
+Architecture: all
+Version: 0.1.0
+Maintainer: BANG RM <rejjalmakky@gmail.com>
+Installed-Size: 48
+Filename: pool/main/bang-rm-agent_0.1.0_all.deb
+Size: 1584
+MD5sum: e387838863a4679e9ec10b01eb7dd6be
+SHA1: 0270359611003d5c0fa435c8312e39a6a942b8ab
+SHA256: fbd2c38f442ee8eb2022cd4cd1989e85b34cffeede9db6198ddbaac5cd917442
+SHA512: bc2e8cfdaf9f406c535d70d608a9df5f2e607e6b12d4805e0dffd374859cb7cffc2f0bde43ef298f25c2bcee0270f198e534e2d6432d932401f3824a68fbcc36
+Homepage: https://github.com/rejjalmakky
+Description: BANG RM local AI agent
+
 Package: command-not-found
-Version: 3.1-11
 Architecture: aarch64
+Version: 3.1-10
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 88
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-10_aarch64.deb
+Size: 16728
+MD5sum: 5998fd8637eb774f5791c406e23fe848
+SHA1: 03ebd9f43cb7b2ba848e79e7ce40fce704cc7dae
+SHA256: 54f83e9fa3a4be93c093c63ad26b5adedc543903ef67f6a1a9a2212cc7d333c3
+SHA512: 713f95ebe3a5afc7192cc4905ade306f0df6cb4dfc4a735100a9eb119b904421f568e07e3f05c5b5d621f165a74f5ded8f94b303056603c8a64ef63442e5166a
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: command-not-found
+Architecture: aarch64
+Version: 3.1-11
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 236
 Depends: libc++
@@ -9,12 +38,28 @@ Size: 42768
 MD5sum: 806edd0d869275388f90abf940028247
 SHA1: 937e22847656de0603a94eef2e6767172a34927e
 SHA256: a048a2c5d25b76210626726f68f61ae56e6dd49d1e7d0ad22c552cc682c3e2c3
+SHA512: a20bc4ac37246114644259871d4baeb6c256879ecd2859474f1a6e8f8564223f6e9c4db2a727bfaed5ae19b6272f5d8590fcbfdfe2eec20b6699b75c2f5d1d3e
+Homepage: https://github.com/termux/command-not-found
+Description: Suggest installation of packages in interactive shell sessions
+
+Package: command-not-found
+Architecture: aarch64
+Version: 3.1-8
+Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
+Installed-Size: 88
+Depends: libc++
+Filename: pool/main/command-not-found_3.1-8_aarch64.deb
+Size: 16744
+MD5sum: 321c927d242c1605ab624d346135847d
+SHA1: e1dfff3b164aea85e4f31e96adf845b5b2d6f071
+SHA256: fcbbc401d71e757f0a736c8841de562ebc2ab8c545fa97e0731b051667b95649
+SHA512: 28faa570671c41e0ddb98940f77065bf549c0827be499a49f7b1f8a9d436d4d1d2f2069cb9a8b7b35b5398348d74eac127a3ba3f2b6667580d1ee915846e588d
 Homepage: https://github.com/termux/command-not-found
 Description: Suggest installation of packages in interactive shell sessions
 
 Package: libc++
-Version: 28c
 Architecture: aarch64
+Version: 28c
 Essential: yes
 Maintainer: @termux
 Installed-Size: 1268
@@ -23,12 +68,13 @@ Size: 291176
 MD5sum: 87890092a9404380788337bab23e48a8
 SHA1: c86d7806a53d2b364999527f2245cc7a471b12eb
 SHA256: e8d5c98b27dd385d1f9529f9dd5da97b17a7b9479c3485eef644138960be0cf9
+SHA512: 97d7a4b9e1ed709d9e700748c9967134f5db54150f1c80fc8299a43aacc6657de12a095353e8bc4266de9bd392a0b71d4d9f69ecf4e4032f03ba85dc3f693882
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
 Package: termux-keyring
-Version: 3.13
 Architecture: all
+Version: 3.13
 Essential: yes
 Maintainer: @termux
 Installed-Size: 192
@@ -37,20 +83,7 @@ Size: 39800
 MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
 SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
 SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
-Homepage: https://github.com/termux
-Description: GPG public keys for the official Termux repositories
-
-Package: termux-keyring
-Version: 3.13
-Architecture: all
-Essential: yes
-Maintainer: @termux
-Installed-Size: 192
-Filename: pool/main/termux-keyring_3.13_all.deb
-Size: 39800
-MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
-SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
-SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
+SHA512: d26437108137fe942bcaf2182ef50a8a4af29b55d45643b0a0094b5956417d9a577db16b8ddcebc801ca3c81430b4c2a854a10f83f6aa92de4b03d9b5c80fa69
 Homepage: https://github.com/termux
 Description: GPG public keys for the official Termux repositories
 
