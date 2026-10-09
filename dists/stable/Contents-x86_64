@@ -1,3 +1,4 @@
+data/data/com.bangrm.termux/files/usr/bin/bang-rm	    bang-rm-agent
 data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/2096779623.gpg termux-keyring
 data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/agnostic-apollo.gpg termux-keyring
 data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/grimler.gpg termux-keyring
@@ -7,6 +8,7 @@ data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/mradityaalok.gpg ter
 data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/termux-autobuilds.gpg termux-keyring
 data/data/com.bangrm.termux/files/usr/etc/apt/trusted.gpg.d/thunder-coding.gpg termux-keyring
 data/data/com.bangrm.termux/files/usr/libexec/termux/command-not-found command-not-found
+data/data/com.bangrm.termux/files/usr/share/doc/bang-rm-agent/LICENSE bang-rm-agent
 data/data/com.bangrm.termux/files/usr/share/doc/command-not-found/copyright command-not-found
 data/data/com.bangrm.termux/files/usr/share/doc/termux-keyring/copyright termux-keyring
 data/data/com.bangrm.termux/files/usr/share/pacman/keyrings/2096779623.gpg termux-keyring

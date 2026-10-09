@@ -12,6 +12,20 @@ SHA512: bc2e8cfdaf9f406c535d70d608a9df5f2e607e6b12d4805e0dffd374859cb7cffc2f0bde
 Homepage: https://github.com/rejjalmakky
 Description: BANG RM local AI agent
 
+Package: bang-rm-agent
+Architecture: all
+Version: 0.1.1
+Maintainer: BANG RM <rejjalmakky@gmail.com>
+Installed-Size: 48
+Filename: pool/main/bang-rm-agent_0.1.1_all.deb
+Size: 1472
+MD5sum: 1dd694efd50495e84a999474b7a1882a
+SHA1: 03f08bf8141f8aedbf897109d3916315a6f3da6b
+SHA256: 9ea95e47079ae60c8cd5eb2504b52f0e992c8faa83e918d70ed14176176e5fc4
+SHA512: 4561fecdc940821e748bcfdbccc93315b5ba0328e59aac19895f8195f63169cd0ae4e80664df102e706aec34d8b5a31a11519717bea2f28d9205bc93964ab20e
+Homepage: https://github.com/rejjalmakky
+Description: BANG RM local AI agent
+
 Package: command-not-found
 Architecture: aarch64
 Version: 3.1-10
