@@ -1,49 +1,19 @@
 Package: bang-rm-agent
-Architecture: all
-Version: 0.1.0
-Maintainer: BANG RM <rejjalmakky@gmail.com>
-Installed-Size: 48
-Filename: pool/main/bang-rm-agent_0.1.0_all.deb
-Size: 1584
-MD5sum: e387838863a4679e9ec10b01eb7dd6be
-SHA1: 0270359611003d5c0fa435c8312e39a6a942b8ab
-SHA256: fbd2c38f442ee8eb2022cd4cd1989e85b34cffeede9db6198ddbaac5cd917442
-SHA512: bc2e8cfdaf9f406c535d70d608a9df5f2e607e6b12d4805e0dffd374859cb7cffc2f0bde43ef298f25c2bcee0270f198e534e2d6432d932401f3824a68fbcc36
-Homepage: https://github.com/rejjalmakky
-Description: BANG RM local AI agent
-
-Package: bang-rm-agent
-Architecture: all
 Version: 0.1.1
+Architecture: all
 Maintainer: BANG RM <rejjalmakky@gmail.com>
 Installed-Size: 48
 Filename: pool/main/bang-rm-agent_0.1.1_all.deb
-Size: 1472
-MD5sum: 1dd694efd50495e84a999474b7a1882a
-SHA1: 03f08bf8141f8aedbf897109d3916315a6f3da6b
-SHA256: 9ea95e47079ae60c8cd5eb2504b52f0e992c8faa83e918d70ed14176176e5fc4
-SHA512: 4561fecdc940821e748bcfdbccc93315b5ba0328e59aac19895f8195f63169cd0ae4e80664df102e706aec34d8b5a31a11519717bea2f28d9205bc93964ab20e
+Size: 1474
+MD5sum: 44ba3ded640847cc171916b4558e924f
+SHA1: c7d40c422bbe89fad603cb42f98142b5a287b575
+SHA256: 88b5dace9bec0f220e046bb34dc48e64daefcb7f36b768b013533829abd53fd1
 Homepage: https://github.com/rejjalmakky
 Description: BANG RM local AI agent
 
 Package: command-not-found
-Architecture: arm
-Version: 3.1-10
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Installed-Size: 60
-Depends: libc++
-Filename: pool/main/command-not-found_3.1-10_arm.deb
-Size: 7228
-MD5sum: 2da2c5693f884f93465eeccaa6a7e902
-SHA1: 589c68c7b7b5ca58a83d73c454498b32b385dc39
-SHA256: 1e883469debd17e618b33662b716b7ef5f88bd1127a8550730b5b49ed4311a57
-SHA512: e83742890a39477f756025c5f890b66c1d4a382045591eff602e844ee00115a2d1c257c305a2c1f1cccde3238fe516ed9b44cf49bad5baba464005dd4b4b0e4a
-Homepage: https://github.com/termux/command-not-found
-Description: Suggest installation of packages in interactive shell sessions
-
-Package: command-not-found
-Architecture: arm
 Version: 3.1-11
+Architecture: arm
 Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
 Installed-Size: 136
 Depends: libc++
@@ -52,28 +22,12 @@ Size: 30912
 MD5sum: 37b17707275f2616efbe4c4c75ebb138
 SHA1: 2c311e33160ef97c03edf662114594f706277f1e
 SHA256: 9866d85501355297f3e38b959db63a0fa5976b575c70539e75262022eb338652
-SHA512: adfa8a2e7762afb4f502c4bef53aa477b0e76c81321641c15efd0ac20e914a4c1a234fdb20d75d5b517ba4c3cf13f0949ac8a6a9929357ac5a81e12195a3de54
-Homepage: https://github.com/termux/command-not-found
-Description: Suggest installation of packages in interactive shell sessions
-
-Package: command-not-found
-Architecture: arm
-Version: 3.1-8
-Maintainer: Yaksh Bariya <thunder-coding@termux.dev>
-Installed-Size: 60
-Depends: libc++
-Filename: pool/main/command-not-found_3.1-8_arm.deb
-Size: 7232
-MD5sum: 5982091deea35d52fb7868339d43cdfd
-SHA1: 2a84cb6f06da34b8b8bc28a43f7146b591ed33ef
-SHA256: feed45b8f3650fa6ff1b16d85d6f003b0f773dfc0d010f807172a322afd7d717
-SHA512: 8752859881295083cee655987be5252f82ddb1d9997cf8813859b879588e9f6b933b81d6882b1b064aaa735c44dbdcdb2b9d8d2cd8db5b125216d5c5a1a4f5f1
 Homepage: https://github.com/termux/command-not-found
 Description: Suggest installation of packages in interactive shell sessions
 
 Package: libc++
-Architecture: arm
 Version: 28c
+Architecture: arm
 Essential: yes
 Maintainer: @termux
 Installed-Size: 872
@@ -82,13 +36,12 @@ Size: 274672
 MD5sum: 70b515b58f6db9d490a202d78d5fda4f
 SHA1: 3ffce3c7a06a697d4414c8d385303fce363a4589
 SHA256: 24a78feb5b96250249f2c5a17b8af889d522eb68f0ba8c8ea2b3a2c4f2a14adc
-SHA512: ab82824927579072ff33dacee0a6f9a8196898aa02ecf3520036b18f4d66c8a4cbb2247f77c330507ebaf747773f97ccf1367fa2c73cc97720a48d21bb89ca6c
 Homepage: https://libcxx.llvm.org/
 Description: C++ Standard Library
 
 Package: termux-keyring
-Architecture: all
 Version: 3.13
+Architecture: all
 Essential: yes
 Maintainer: @termux
 Installed-Size: 192
@@ -97,7 +50,33 @@ Size: 39800
 MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
 SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
 SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
-SHA512: d26437108137fe942bcaf2182ef50a8a4af29b55d45643b0a0094b5956417d9a577db16b8ddcebc801ca3c81430b4c2a854a10f83f6aa92de4b03d9b5c80fa69
+Homepage: https://github.com/termux
+Description: GPG public keys for the official Termux repositories
+
+Package: bang-rm-agent
+Version: 0.1.1
+Architecture: all
+Maintainer: BANG RM <rejjalmakky@gmail.com>
+Installed-Size: 48
+Filename: pool/main/bang-rm-agent_0.1.1_all.deb
+Size: 1474
+MD5sum: 44ba3ded640847cc171916b4558e924f
+SHA1: c7d40c422bbe89fad603cb42f98142b5a287b575
+SHA256: 88b5dace9bec0f220e046bb34dc48e64daefcb7f36b768b013533829abd53fd1
+Homepage: https://github.com/rejjalmakky
+Description: BANG RM local AI agent
+
+Package: termux-keyring
+Version: 3.13
+Architecture: all
+Essential: yes
+Maintainer: @termux
+Installed-Size: 192
+Filename: pool/main/termux-keyring_3.13_all.deb
+Size: 39800
+MD5sum: 6bbc113d7d0da07d7f1ce4058485d895
+SHA1: b89e3998e6a215355af0b6ff341b37b576d67c6e
+SHA256: 0f4db4a157a7328d9c083815717c54ba125c7cdb4ed5716075de3e92e43d9cb0
 Homepage: https://github.com/termux
 Description: GPG public keys for the official Termux repositories
 
