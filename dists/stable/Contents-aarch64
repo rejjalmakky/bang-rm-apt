@@ -36,7 +36,7 @@ data/data/com.bangrm.termux/files/usr/share/termux-keyring/thunder-coding.gpg te
 data/data/com.termux/files/usr/bin/2to3			    python
 data/data/com.termux/files/usr/bin/2to3-3.12		    python
 data/data/com.termux/files/usr/bin/add-trusted-certificate  openssl-tool
-data/data/com.termux/files/usr/bin/bang-rm		    bang-rm-agent
+data/data/com.termux/files/usr/bin/bang-rm		    bang-rm,bang-rm-agent
 data/data/com.termux/files/usr/bin/brotli		    brotli
 data/data/com.termux/files/usr/bin/bunzip2		    bzip2
 data/data/com.termux/files/usr/bin/bzcat		    bzip2
@@ -5076,7 +5076,10 @@ data/data/com.termux/files/usr/share/X11/locale/zh_TW/XLC_LOCALE libx11
 data/data/com.termux/files/usr/share/aclocal/freetype2.m4   freetype
 data/data/com.termux/files/usr/share/aclocal/xorg-macros.m4 xorg-util-macros
 data/data/com.termux/files/usr/share/aclocal/xtrans.m4	    xtrans
+data/data/com.termux/files/usr/share/bang-rm/agent.py	    bang-rm
+data/data/com.termux/files/usr/share/bang-rm/safety.py	    bang-rm
 data/data/com.termux/files/usr/share/doc/bang-rm-agent/LICENSE bang-rm-agent
+data/data/com.termux/files/usr/share/doc/bang-rm/copyright  bang-rm
 data/data/com.termux/files/usr/share/doc/brotli/copyright   brotli
 data/data/com.termux/files/usr/share/doc/ca-certificates/copyright ca-certificates
 data/data/com.termux/files/usr/share/doc/command-not-found/copyright command-not-found
